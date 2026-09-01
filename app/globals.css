@@ -3,24 +3,45 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --flavor-color: #f4b942;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-poppins);
+  --animate-drift: drift 14s ease-in-out infinite;
+  --animate-drift-slow: drift 20s ease-in-out infinite reverse;
+  --animate-drift-alt: drift-alt 18s ease-in-out infinite;
+  --animate-fade-in-up: fade-in-up 0.9s ease-out both;
+  --animate-hero-entrance: hero-entrance 1.2s ease-out both;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+@keyframes drift {
+  0%, 100% { transform: translate(0px, 0px); }
+  25% { transform: translate(8px, 4px); }
+  50% { transform: translate(6px, 12px); }
+  75% { transform: translate(-5px, 7px); }
+}
+
+@keyframes drift-alt {
+  0%, 100% { transform: translate(0px, 0px); }
+  33% { transform: translate(-7px, 5px); }
+  66% { transform: translate(5px, -8px); }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes hero-entrance {
+  from { opacity: 0; transform: scale(0.96) translateY(12px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans, Arial, Helvetica, sans-serif);
 }

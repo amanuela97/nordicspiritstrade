@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hartwall Long Drink — Coming Soon to Nepal
 
-## Getting Started
+A single-page coming-soon site announcing the arrival of Hartwall Original Long Drink in Nepal. Built with Next.js 16 (App Router), TypeScript, and Tailwind CSS v4.
 
-First, run the development server:
+## Running locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+app/
+  layout.tsx        Root layout — loads Poppins font, sets metadata
+  page.tsx          Page shell (Server Component) composing Hero → ComingSoon → Footer
+  globals.css       Tailwind v4 directives, custom keyframes, CSS variables
+components/
+  Hero.tsx          "use client" — state owner for activeColor, renders background + carousel
+  ParallaxBackground.tsx  "use client" — 3-layer parallax bg, flavor-tinted gradient
+  FlavorCarousel.tsx      "use client" — crossfade can images + dot selectors + auto-play
+  ComingSoon.tsx    Server Component — "Coming Soon to Nepal" announcement block
+  SiteFooter.tsx    Server Component — legal/trademark disclaimer (verbatim)
+lib/
+  flavors.ts        Flavor data array (name, hex color, image path)
+public/
+  assets/cans/      Product can images (webp) — one file per flavor
+```
 
-## Learn More
+## Swapping in real product images
 
-To learn more about Next.js, take a look at the following resources:
+When licensed product photography is available:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Drop the new transparent PNG/WebP files into `public/assets/cans/`
+2. Update the `image` field for each entry in `lib/flavors.ts` to the new filename
+3. That's it — the carousel and all metadata update automatically
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Flavor color customisation
 
-## Deploy on Vercel
+Each flavor drives the hero background tint via its `color` hex in `lib/flavors.ts`. Adjust colors there to match final brand guidelines.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Editing placeholder copy
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The "Coming Soon" copy in `components/ComingSoon.tsx` is marked with `{/* Placeholder copy */}` comments. Replace with final client-supplied text before launch.
