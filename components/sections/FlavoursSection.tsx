@@ -29,9 +29,15 @@ export default function FlavoursSection() {
       aria-labelledby="flavours-heading"
     >
       {/* Subtle mountain bg */}
-      <div className="absolute inset-0 opacity-15">
-        <Image src="/assets/images/nepal-mountains-dark.jpg" alt="" fill className="object-cover object-center" aria-hidden="true" />
-      </div>
+      <div
+        className="absolute inset-0 opacity-20"
+        style={{
+          backgroundImage: "url('/assets/images/flavours-bg.jpg')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+        aria-hidden="true"
+      />
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-10">
         {/* Header */}
