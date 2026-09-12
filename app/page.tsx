@@ -1,26 +1,35 @@
-import type { Metadata } from "next";
-import Hero from "@/components/Hero";
-import ComingSoon from "@/components/ComingSoon";
+"use client";
+
+import { useState } from "react";
+import LoadingScreen from "@/components/LoadingScreen";
+import Nav from "@/components/Nav";
+import ContactModal from "@/components/ContactModal";
+import HeroSection from "@/components/sections/HeroSection";
+import BrandSection from "@/components/sections/BrandSection";
+import FlavoursSection from "@/components/sections/FlavoursSection";
+import NepalSection from "@/components/sections/NepalSection";
+import PartnerSection from "@/components/sections/PartnerSection";
 import SiteFooter from "@/components/SiteFooter";
 
-export const metadata: Metadata = {
-  title: "Hartwall Long Drink — Coming Soon to Nepal",
-  description:
-    "Finland's iconic Original Long Drink, crafted by Hartwall, is arriving in Nepal. Discover six vibrant flavors — the Nordic classic, reimagined for the Himalayas.",
-  openGraph: {
-    title: "Hartwall Long Drink — Coming Soon to Nepal",
-    description:
-      "Finland's iconic Original Long Drink is arriving in Nepal. Six vibrant flavors of the Nordic classic, coming soon.",
-    type: "website",
-  },
-};
-
 export default function Home() {
+  const [contactOpen, setContactOpen] = useState(false);
+
   return (
-    <main className="flex min-h-screen flex-col">
-      <Hero />
-      <ComingSoon />
-      <SiteFooter />
-    </main>
+    <>
+      <LoadingScreen />
+      <Nav onContactOpen={() => setContactOpen(true)} />
+      <ContactModal
+        open={contactOpen}
+        onClose={() => setContactOpen(false)}
+      />
+      <main>
+        <HeroSection onContactOpen={() => setContactOpen(true)} />
+        <BrandSection />
+        <FlavoursSection />
+        <NepalSection />
+        <PartnerSection onContactOpen={() => setContactOpen(true)} />
+      </main>
+      <SiteFooter onContactOpen={() => setContactOpen(true)} />
+    </>
   );
 }

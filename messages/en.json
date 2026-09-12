@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Hartwall Long Drink — Coming Soon to Nepal | Nordic Spirits Trade",
+    "description": "Finland's iconic Hartwall Original Long Drink is arriving in Nepal. Six vibrant flavours of the Nordic classic — distributed by Nordic Spirits Trade."
+  },
+  "loading": {
+    "tagline": "Premium Nordic Imports · Nepal"
+  },
+  "nav": {
+    "home": "Home",
+    "brand": "The Brand",
+    "flavours": "Flavours",
+    "nepal": "The Nepal Opportunity",
+    "partner": "Partner With Us",
+    "contact": "Contact",
+    "en": "EN",
+    "fi": "FI",
+    "ne": "NE",
+    "language": "Language"
+  },
+  "hero": {
+    "eyebrow": "The Original Finnish Long Drink",
+    "heading1": "Now on its way to",
+    "heading2": "Nepal",
+    "tagline": "Same authentic taste. A new horizon.",
+    "body": "Hartwall Original Long Drink — the iconic Finnish ready-to-drink beverage — is coming to Nepal. Six vibrant flavours, one legendary spirit.",
+    "discoverCta": "Discover the Nepal Opportunity",
+    "partnerCta": "Partner With Us",
+    "fromFinland": "From Finland",
+    "toNepal": "to Nepal",
+    "scroll": "Scroll"
+  },
+  "brand": {
+    "eyebrow": "A Legendary Finnish Original",
+    "heading": "Born at the 1952 Helsinki Olympics.",
+    "body1": "What started as a refreshing drink for the Olympic Games became a Finnish icon. Today, Hartwall Original Long Drink is enjoyed around the world — and now it's ready for Nepal's premium market.",
+    "body2": "Made with real gin and natural grapefruit soda, it's light, balanced, and unmistakably Nordic — the perfect introduction of Finnish drinking culture to a new generation of Nepali consumers.",
+    "storyCta": "THE STORY",
+    "photoCaption": "Helsinki 1952",
+    "featureOriginTitle": "Authentic Finnish origin",
+    "featureOriginDesc": "A true Nordic heritage.",
+    "featureQualityTitle": "Premium quality",
+    "featureQualityDesc": "Crafted with care.",
+    "featureTasteTitle": "Refreshing taste",
+    "featureTasteDesc": "Grapefruit. Gin. Perfect balance.",
+    "featureStoryTitle": "A unique story",
+    "featureStoryDesc": "From Olympic spirit to global favourite."
+  },
+  "flavours": {
+    "eyebrow": "The Original Line-Up",
+    "heading1": "Iconic flavours.",
+    "heading2": "Same great spirit.",
+    "tapHint": "Tap a flavour card to reveal tasting notes",
+    "occasionsEyebrow": "Perfect For",
+    "occasionsHeading": "Nepal's finest moments",
+    "occasions": [
+      "Rooftop bars & lounges",
+      "Premium hotels & resorts",
+      "Restaurants & cafés",
+      "Tourism & adventure",
+      "Special occasions"
+    ],
+    "items": {
+      "gingrapefruit": {
+        "name": "Gin & Grapefruit",
+        "subtitle": "The Original",
+        "note": "Crisp Finnish gin balanced with zesty grapefruit soda. The one that started it all — light, refreshing, unmistakably Nordic."
+      },
+      "raspberry": {
+        "name": "Gin & Raspberry",
+        "subtitle": "Fruity Twist",
+        "note": "Vibrant raspberry meets premium gin. Sweet, tart, and wonderfully refreshing — a bold twist on the classic."
+      },
+      "lemonade": {
+        "name": "Gin & Lemon",
+        "subtitle": "Zesty & Fresh",
+        "note": "Bright lemon soda meets Nordic gin. Tangy, light, and full of sunshine character — perfect for warm Nepali evenings."
+      },
+      "orange": {
+        "name": "Gin & Orange",
+        "subtitle": "Citrus Classic",
+        "note": "Sun-kissed orange and premium gin in perfect balance. Warm, smooth, and endlessly drinkable."
+      },
+      "pineapple": {
+        "name": "Gin & Pineapple",
+        "subtitle": "Tropical Escape",
+        "note": "A tropical spin on the Nordic classic. Sweet pineapple with a clean gin backbone — adventurous and refreshing."
+      },
+      "glogg": {
+        "name": "Glögg Special",
+        "subtitle": "Winter Edition",
+        "note": "A Nordic seasonal expression. Warm spiced notes with a long drink twist — Finland's winter spirit in a can."
+      }
+    }
+  },
+  "nepal": {
+    "eyebrow": "Why Nepal?",
+    "heading": "A growing premium beverage market.",
+    "body": "With a thriving tourism industry, an increasing demand for international brands, and a young, urban consumer base, Nepal is the perfect next destination for Hartwall Original Long Drink.",
+    "stat1Label": "International tourists",
+    "stat1Sub": "annual arrivals to Nepal (NTB 2023)",
+    "stat2Label": "Hotels, bars & restaurants",
+    "stat2Sub": "registered with Nepal Tourism Dept",
+    "stat3Label": "Millennials & Gen-Z consumers",
+    "stat3Sub": "aged 15–34 (CBS Nepal Census 2021)",
+    "stat4Label": "Avg. annual GDP growth",
+    "stat4Sub": "over the past decade (World Bank)",
+    "ctaEyebrow": "The Nepal Chapter",
+    "ctaHeading": "Let's build this together.",
+    "ctaBody": "We are looking for the right distribution partners in Nepal to bring this Finnish icon to life. From rooftop bars in Thamel to luxury lodges in Pokhara — the opportunity is here.",
+    "ctaButton": "Contact Us",
+    "ctaEmail": "director@nordicspiritstrade.com"
+  },
+  "partner": {
+    "eyebrow": "The Nepal Chapter",
+    "heading": "Same Spirit. A New Home.",
+    "body": "Nepal is a land of breathtaking mountains, rich culture, and warm people — and it's time for a new kind of refreshment. Hartwall Long Drink brings a taste of Finland to the heart of Nepal, for those who seek something different, premium, and truly refreshing.",
+    "benefit1Title": "Cool, light and refreshing",
+    "benefit1Sub": "Perfect for Nepal's climate",
+    "benefit2Title": "Ideal for social moments",
+    "benefit2Sub": "Bars, hotels, restaurants & more",
+    "benefit3Title": "A premium choice",
+    "benefit3Sub": "For those who appreciate quality",
+    "cta": "Partner With Us",
+    "cardEyebrow": "Be Part of the Nepal Journey",
+    "cardHeading": "Building a premium Nordic beverage brand in Nepal.",
+    "cardBody": "We'd love for you to be part of it. We are actively seeking distribution partners, importers, and on-trade accounts across Kathmandu, Pokhara, Chitwan, and beyond.",
+    "cardButton": "Contact Us",
+    "location": "Kathmandu, Nepal · Helsinki, Finland"
+  },
+  "footer": {
+    "about": "Bringing Finland's finest long drink tradition to the Himalayan market.",
+    "navTitle": "Navigate",
+    "productsTitle": "Products",
+    "contactTitle": "Contact",
+    "partnerCta": "Partner Inquiry",
+    "disclaimer": "Trademarks & Intellectual Property Disclaimer: All product names, logos, brands, and trademarks displayed on this portal are the property of their respective owners (Hartwall Oy Ab / Royal Unibrew). Reference to these corporate assets is strictly for territorial market portfolio evaluation, regulatory pre-screening, and prospective import distribution mapping under a closed Business-to-Business (B2B) infrastructure framework.",
+    "alcohol": "Alcohol only for 18+. Drink responsibly.",
+    "rights": "Nordic Spirits Trade. All rights reserved.",
+    "tagline": "The Original Finnish Long Drink"
+  },
+  "modal": {
+    "partnerEyebrow": "Partner With Us",
+    "heading": "Let's build this together.",
+    "reachUs": "Reach us at",
+    "inquiryTitle": "Distribution Partner Inquiry",
+    "fieldName": "Full Name",
+    "fieldCompany": "Company / Organisation",
+    "fieldEmail": "Email Address",
+    "fieldPhone": "Phone Number",
+    "fieldMessage": "Message",
+    "messagePlaceholder": "Tell us about your distribution network and how you'd like to partner...",
+    "submitBtn": "Send Inquiry",
+    "successTitle": "Inquiry Received!",
+    "successBody": "Thank you for your interest. Our team will be in touch within 48 hours.",
+    "sendAnother": "Send another inquiry",
+    "notifyTitle": "Get Notified at Launch",
+    "notifyBody": "Be the first to know when Hartwall Long Drink is available in Nepal.",
+    "notifyPlaceholder": "your@email.com",
+    "notifyBtn": "Notify Me",
+    "notifySuccess": "You're on the list!",
+    "closeLabel": "Close",
+    "required": "required",
+    "disclaimer": "Trademarks & Intellectual Property Disclaimer: All product names, logos, brands, and trademarks referenced are the property of their respective owners (Hartwall Oy Ab / Royal Unibrew). Reference on this portal is strictly for territorial market evaluation under a closed B2B framework."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Hartwall Long Drink — Tulossa Nepaliin | Nordic Spirits Trade",
+    "description": "Suomen ikoninen Hartwall Original Long Drink saapuu Nepaliin. Kuusi värikästä makua Nordic Spirits Traden tuomana."
+  },
+  "loading": {
+    "tagline": "Pohjoismainen premium-tuonti · Nepal"
+  },
+  "nav": {
+    "home": "Koti",
+    "brand": "Brändi",
+    "flavours": "Maut",
+    "nepal": "Nepal-mahdollisuus",
+    "partner": "Yhteistyö",
+    "contact": "Yhteystiedot",
+    "en": "EN",
+    "fi": "FI",
+    "ne": "NE",
+    "language": "Kieli"
+  },
+  "hero": {
+    "eyebrow": "Alkuperäinen suomalainen long drink",
+    "heading1": "Matkalla",
+    "heading2": "Nepaliin",
+    "tagline": "Sama aito maku. Uusi horisontti.",
+    "body": "Hartwall Original Long Drink — Suomen ikoninen valmisdrinkki — saapuu Nepaliin. Kuusi värikästä makua, yksi legendaarinen juoma.",
+    "discoverCta": "Tutustu Nepal-mahdollisuuteen",
+    "partnerCta": "Yhteistyöhön",
+    "fromFinland": "Suomesta",
+    "toNepal": "Nepaliin",
+    "scroll": "Vieritä"
+  },
+  "brand": {
+    "eyebrow": "Legendaarinen suomalainen alkuperäinen",
+    "heading": "Syntyi Helsingin 1952 olympialaisissa.",
+    "body1": "Mikä alkoi virkistävänä juomana olympialaisille, siitä tuli suomalainen ikoni. Tänään Hartwall Original Long Drink on nautittavissa ympäri maailmaa — ja nyt se on valmis Nepalin premium-markkinoille.",
+    "body2": "Aidosta ginistä ja luonnollisesta greippilimsasta valmistettuna se on kevyt, tasapainoinen ja kiistämättömän pohjoismainen — täydellinen johdatus suomalaiseen juomakulttuuriin uudelle nepalilaiselle sukupolvelle.",
+    "storyCta": "TARINA",
+    "photoCaption": "Helsinki 1952",
+    "featureOriginTitle": "Aito suomalainen alkuperä",
+    "featureOriginDesc": "Totta pohjoismaista perintöä.",
+    "featureQualityTitle": "Premium-laatu",
+    "featureQualityDesc": "Valmistettu huolella.",
+    "featureTasteTitle": "Virkistävä maku",
+    "featureTasteDesc": "Greippi. Gin. Täydellinen tasapaino.",
+    "featureStoryTitle": "Ainutlaatuinen tarina",
+    "featureStoryDesc": "Olympiahengestä maailmansuosikiksi."
+  },
+  "flavours": {
+    "eyebrow": "Alkuperäinen valikoima",
+    "heading1": "Ikoniset maut.",
+    "heading2": "Sama loistava henki.",
+    "tapHint": "Napauta makukorttia nähdäksesi makukuvauksen",
+    "occasionsEyebrow": "Täydellinen",
+    "occasionsHeading": "Nepalin parhaimmille hetkille",
+    "occasions": [
+      "Kattoterassit ja loungit",
+      "Premium-hotellit ja resorttit",
+      "Ravintolat ja kahvilat",
+      "Matkailu ja seikkailu",
+      "Erikoistilaisuudet"
+    ],
+    "items": {
+      "gingrapefruit": {
+        "name": "Gin & Greippi",
+        "subtitle": "Alkuperäinen",
+        "note": "Rapea suomalainen gin tasapainossa kirpeän greippilimsan kanssa. Se josta kaikki alkoi — kevyt, virkistävä, kiistämättömän pohjoismainen."
+      },
+      "raspberry": {
+        "name": "Gin & Vadelma",
+        "subtitle": "Hedelmäinen kierre",
+        "note": "Eloisa vadelma kohtaa premium-ginin. Makea, hapan ja ihanan virkistävä — rohkea kierre klassikkoon."
+      },
+      "lemonade": {
+        "name": "Gin & Sitruuna",
+        "subtitle": "Kirpeä & Raitis",
+        "note": "Kirkas sitruunalimsa kohtaa pohjoismaisen ginin. Hapan, kevyt ja täynnä aurinkoista luonnetta — täydellinen lämpimille nepaliilloille."
+      },
+      "orange": {
+        "name": "Gin & Appelsiini",
+        "subtitle": "Sitrusklassikko",
+        "note": "Aurinkoiset appelsiinit ja premium gin täydellisessä tasapainossa. Lämmin, sileä ja loputtoman juotava."
+      },
+      "pineapple": {
+        "name": "Gin & Ananas",
+        "subtitle": "Trooppinen pakopaikka",
+        "note": "Trooppinen kierre pohjoismaiseen klassikkoon. Makea ananas puhtaan ginin kanssa — seikkailullinen ja virkistävä."
+      },
+      "glogg": {
+        "name": "Glögi-special",
+        "subtitle": "Talvierityispainos",
+        "note": "Pohjoismainen kausierityispainos. Lämpimät mausteiset nuotit long drink -kierteineen — Suomen talvihenki tölkissä."
+      }
+    }
+  },
+  "nepal": {
+    "eyebrow": "Miksi Nepal?",
+    "heading": "Kasvava premium-juomamarkkina.",
+    "body": "Kukoistavan matkailuteollisuuden, kansainvälisten brändien kasvavan kysynnän ja nuoren, urbaanin kuluttajakannan ansiosta Nepal on täydellinen seuraava kohde Hartwall Original Long Drinkille.",
+    "stat1Label": "Kansainväliset turistit",
+    "stat1Sub": "vuosittaiset saapumiset Nepaliin (NTB 2023)",
+    "stat2Label": "Hotellit, baarit & ravintolat",
+    "stat2Sub": "rekisteröity Nepalin matkailuvirastoon",
+    "stat3Label": "Millenniaalit ja Z-sukupolvi",
+    "stat3Sub": "15–34-vuotiaat (CBS Nepal 2021)",
+    "stat4Label": "Keskim. vuosittainen BKT-kasvu",
+    "stat4Sub": "viimeisen vuosikymmenen aikana (Maailmanpankki)",
+    "ctaEyebrow": "Nepal-luku",
+    "ctaHeading": "Rakennetaan tämä yhdessä.",
+    "ctaBody": "Etsimme oikeita jakelupartnereita Nepalissa tuomaan tämän suomalaisen ikonin eloon. Thamelin kattobaareista Pokharaan luksushuviloihin — mahdollisuus on täällä.",
+    "ctaButton": "Ota yhteyttä",
+    "ctaEmail": "director@nordicspiritstrade.com"
+  },
+  "partner": {
+    "eyebrow": "Nepal-luku",
+    "heading": "Sama henki. Uusi koti.",
+    "body": "Nepal on maa huippuvuoristoineen, rikkaaseen kulttuureineen ja lämpimäine ihmisineen — ja on aika uudenlaiselle virkistymiselle. Hartwall Long Drink tuo palan Suomea Nepalin sydämeen niille, jotka etsivät jotain erilaista, premium-tasoista ja aidosti virkistävää.",
+    "benefit1Title": "Viileä, kevyt ja virkistävä",
+    "benefit1Sub": "Täydellinen Nepalin ilmastoon",
+    "benefit2Title": "Ihanteellinen sosiaalisiin hetkiin",
+    "benefit2Sub": "Baarit, hotellit, ravintolat & lisää",
+    "benefit3Title": "Premium-valinta",
+    "benefit3Sub": "Niille, jotka arvostavat laatua",
+    "cta": "Yhteistyöhön",
+    "cardEyebrow": "Ole osa Nepal-matkaa",
+    "cardHeading": "Rakennetaan pohjoismainen premium-juomabrändi Nepaliin.",
+    "cardBody": "Haluaisimme sinut mukaan. Etsimme aktiivisesti jakelijoita, maahantuojia ja on-trade-tilejä Katmandussa, Pokharassa, Chitwanissa ja muualla.",
+    "cardButton": "Ota yhteyttä",
+    "location": "Kathmandu, Nepal · Helsinki, Suomi"
+  },
+  "footer": {
+    "about": "Tuomme Suomen parhainta long drink -perinnettä Himalajan markkinoille.",
+    "navTitle": "Navigointi",
+    "productsTitle": "Tuotteet",
+    "contactTitle": "Yhteystiedot",
+    "partnerCta": "Yhteistyötiedustelu",
+    "disclaimer": "Tavaramerkit & immateriaalioikeudet: Kaikki tässä portaalissa mainitut tuotenimet, logot, brändit ja tavaramerkit ovat omistajiensa omaisuutta (Hartwall Oy Ab / Royal Unibrew). Viittaus näihin yritysten varoihin on tarkoitettu yksinomaan alueen markkina-arviointiin suljetun B2B-puitekehyksen puitteissa.",
+    "alcohol": "Alkoholi vain 18+. Juo vastuullisesti.",
+    "rights": "Nordic Spirits Trade. Kaikki oikeudet pidätetään.",
+    "tagline": "Alkuperäinen suomalainen long drink"
+  },
+  "modal": {
+    "partnerEyebrow": "Yhteistyö",
+    "heading": "Rakennetaan tämä yhdessä.",
+    "reachUs": "Tavoita meidät",
+    "inquiryTitle": "Jakelukumppanuustiedustelu",
+    "fieldName": "Koko nimi",
+    "fieldCompany": "Yritys / Organisaatio",
+    "fieldEmail": "Sähköpostiosoite",
+    "fieldPhone": "Puhelinnumero",
+    "fieldMessage": "Viesti",
+    "messagePlaceholder": "Kerro jakeluverkostostasi ja siitä, miten haluaisit tehdä yhteistyötä...",
+    "submitBtn": "Lähetä tiedustelu",
+    "successTitle": "Tiedustelu vastaanotettu!",
+    "successBody": "Kiitos kiinnostuksestasi. Tiimimme ottaa sinuun yhteyttä 48 tunnin kuluessa.",
+    "sendAnother": "Lähetä toinen tiedustelu",
+    "notifyTitle": "Saa ilmoitus lanseerauksesta",
+    "notifyBody": "Ole ensimmäinen, joka saa tietää, kun Hartwall Long Drink on saatavilla Nepalissa.",
+    "notifyPlaceholder": "sinun@sahkoposti.com",
+    "notifyBtn": "Ilmoita minulle",
+    "notifySuccess": "Olet listalla!",
+    "closeLabel": "Sulje",
+    "required": "pakollinen",
+    "disclaimer": "Tavaramerkit & immateriaalioikeudet: Kaikki mainitut tuotenimet, logot, brändit ja tavaramerkit ovat omistajiensa omaisuutta (Hartwall Oy Ab / Royal Unibrew). Viittaus on tarkoitettu yksinomaan alueen markkina-arviointiin suljetun B2B-puitekehyksen puitteissa."
+  }
+}
