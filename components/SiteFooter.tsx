@@ -69,7 +69,7 @@ export default function SiteFooter({ onContactOpen }: { onContactOpen: () => voi
           {/* Brand */}
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="relative w-44 h-14 mb-5">
-              <Image src="/assets/logos/logo-horizontal-white-for-dark-bg.png" alt="Nordic Spirits Trade" fill className="object-contain object-left" sizes="(max-width: 768px) 180px, 256px" />
+              <Image src="/assets/custom-logo/logo-horizontal-white-for-dark-bg.png" alt="Nordic Spirits Trade" fill className="object-contain object-left" sizes="(max-width: 768px) 180px, 256px" />
             </div>
             <p className="text-off-white/60 text-sm leading-relaxed max-w-xs mb-5">{t("about")}</p>
             <div className="flex gap-3">

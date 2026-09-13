@@ -29,7 +29,7 @@ export default function LoadingScreen() {
       {/* Logo */}
       <div className="animate-loading-fade relative w-56 h-20 mb-6">
         <Image
-          src="/assets/logos/logo-horizontal-white-for-dark-bg.png"
+          src="/assets/custom-logo/logo-horizontal-white-for-dark-bg.png"
           alt="Nordic Spirits Trade"
           fill
           className="object-contain"

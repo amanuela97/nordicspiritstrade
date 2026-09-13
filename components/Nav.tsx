@@ -120,8 +120,8 @@ export default function Nav({ onContactOpen }: { onContactOpen: () => void }) {
             <Image
               src={
                 scrolled
-                  ? "/assets/logos/logo-horizontal-color.png"
-                  : "/assets/logos/logo-horizontal-white-for-dark-bg.png"
+                  ? "/assets/custom-logo/logo-horizontal-color.png"
+                  : "/assets/custom-logo/logo-horizontal-white-for-dark-bg.png"
               }
               alt="Nordic Spirits Trade"
               fill
