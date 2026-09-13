@@ -37,6 +37,7 @@ export default function Nav({ onContactOpen }: { onContactOpen: () => void }) {
     { label: t("brand"), id: "brand" },
     { label: t("flavours"), id: "flavours" },
     { label: t("nepal"), id: "nepal" },
+    { label: t("whyNepal"), id: "why-nepal" },
     { label: t("partner"), id: "partner" },
     { label: t("contact"), id: "contact" },
   ];

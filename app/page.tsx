@@ -8,6 +8,7 @@ import HeroSection from "@/components/sections/HeroSection";
 import BrandSection from "@/components/sections/BrandSection";
 import FlavoursSection from "@/components/sections/FlavoursSection";
 import NepalSection from "@/components/sections/NepalSection";
+import WhyNepalSection from "@/components/sections/WhyNepalSection";
 import PartnerSection from "@/components/sections/PartnerSection";
 import SiteFooter from "@/components/SiteFooter";
 
@@ -27,6 +28,7 @@ export default function Home() {
         <BrandSection />
         <FlavoursSection />
         <NepalSection />
+        <WhyNepalSection />
         <PartnerSection onContactOpen={() => setContactOpen(true)} />
       </main>
       <SiteFooter onContactOpen={() => setContactOpen(true)} />
